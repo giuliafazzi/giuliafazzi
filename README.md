@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello!
+<p><em>Master's student @ <a href="https://ic.unicamp.br/">UNICAMP</a></br>Data Scientist @ <a href="https://www.encora.com/">Encora</a>
+</em></p>
 
-<!--
-**giuliafazzi/giuliafazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: httpfazzi](https://img.shields.io/twitter/follow/httpfazzi?style=social)](https://twitter.com/httpfazzi)
+[![Linkedin: giuliafazzi](https://img.shields.io/badge/-giuliafazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliafazzi/)](https://www.linkedin.com/in/giuliafazzi/)
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- JavaScript
+- Node.js
+- TypeScript
+- Machine Learning
+- Image Processing
+- TensorFlow
+- HTML & CSS
+- SQL
+- Scrum & Kanban
+
+</br>
+
+## 🌎 Languages
+
+- **Portuguese**  | Native
+- **English**     | Advanced
+
+</br>
+
+## 📚 Currently learning 
+- Large Language Models
+- GPT 3.5 & GPT 4
+- Attention Mechanism (Machine Learning)
+- Adversarial Attacks and Defense
