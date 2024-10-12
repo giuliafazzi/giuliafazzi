@@ -1,5 +1,5 @@
 # Hello!
-<p><em>Master's student @ <a href="https://ic.unicamp.br/">UNICAMP</a></br>Data Scientist @ <a href="https://www.encora.com/">Encora</a>
+<p><em>Master's student @ <a href="https://ic.unicamp.br/">UNICAMP</a></br>Senior Data Scientist @ <a href="https://www.thoughtworks.com/">Thoughtworks</a>
 </em></p>
 
 [![Twitter: httpfazzi](https://img.shields.io/twitter/follow/httpfazzi?style=social)](https://twitter.com/httpfazzi)
